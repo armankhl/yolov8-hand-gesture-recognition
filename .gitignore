@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data & Models
+data/
+/runs/
+/YOLOv8_checkpoints/
+*.pt
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db

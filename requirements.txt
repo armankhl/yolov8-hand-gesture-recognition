@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+torch
+torchvision
+pyyaml
+numpy
+matplotlib
+# Add any other core libraries you used
