@@ -1,6 +1,6 @@
 # Real-Time Hand Gesture Recognition using YOLOv8
 
-![Project Demo](https://i.imgur.com/your-demo-gif.gif) <!-- It's highly recommended to create a GIF of your output video and upload it here -->
+![Image](https://github.com/user-attachments/assets/07b40913-5729-4edb-bc79-04be79417750)
 
 This project implements a real-time hand gesture recognition system capable of identifying five distinct hand gestures (representing numbers 1 through 5). The system is built using the **YOLOv8 Nano** model, which is fine-tuned on a custom dataset for high performance and efficiency.
 
